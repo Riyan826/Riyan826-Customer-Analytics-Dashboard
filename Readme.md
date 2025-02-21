@@ -7,7 +7,7 @@ This dashboard enables businesses to understand their customer base and enhance 
 ## Features
 - **Customer Demographics**: Analyzes age groups, location, and spending behavior.
 - **Purchasing Patterns**: Identifies frequently purchased products and seasonal trends.
-- **Customer Retention & Churn**: Tracks returning customers vs. new customers.
+- **Customer Tracking**: Tracks returning customers vs. new customers.
 - **Time-Series Analysis**: Analyzes customer trends over different time frames.
 - **Interactive Visuals**: Allows filtering based on customer segments and purchase history.
 
